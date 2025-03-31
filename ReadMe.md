@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Kirill and I'm a Web developer</h2>
 
 ###
 
